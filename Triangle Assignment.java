@@ -2,7 +2,7 @@ class calculateTriangle
 {
     public static void main(String arg[])
     {
-        Triangle tria = new Triangle(53, 11, 7, 9);
+        Triangle tria = new Triangle(74, 19,11, 5);
 
         System.out.println("Area = " + tria.getArea());
         System.out.println("Perimeter = " + tria.getPerimeter());
