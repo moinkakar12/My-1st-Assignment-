@@ -24,12 +24,12 @@ class Triangle
         this.s_a = a;
         this.s_c = c;
     }
-
+// Getting Area
     int getArea()
     {
         return (height * base)/2;
     }
-
+// Getting Perimeter
     int getPerimeter()
     {
         return s_a + base + s_c;
